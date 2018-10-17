@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/andyf/Desktop/SDHAck/Basys3/Source/project_2/project_2.srcs/sources_1/new/FGDATopLevel.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FGDATopLevel
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/andyf/Desktop/SDHAck/Basys3/Source/project_2/project_2.srcs/sources_1/new/vga_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity vga_controller
